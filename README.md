@@ -13,6 +13,8 @@ Below my portfolion as part data science study
     Git link : https://github.com/skabindra/dsc530/tree/master/Final_project
 5. Housing Price Analysis in Chicago Market
     Git link : https://github.com/skabindra/dsc550/tree/master/dsc550
-6. 
+6. Analysis of Heart Disease Prediction Data: Insights and Implications :
+    Link : https://github.com/skabindra/dsc680/tree/master/week5-8
+
    
  
